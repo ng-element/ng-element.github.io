@@ -41,6 +41,12 @@ MIT
 @angular/router
 MIT
 
+@ngx-loading-bar/core
+MIT
+
+@ngx-loading-bar/router
+MIT
+
 date-fns
 MIT
 Copyright (C) 2020 Sasha Koss and Lesha Koss
